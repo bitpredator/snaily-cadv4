@@ -1,0 +1,14 @@
+{
+  "Bleeter": {
+    "bleeter": "Bleeter",
+    "noPosts": "Non ci sono ancora post più bleeter. Ricontrolla più tardi",
+    "createBleet": "Crea bleet",
+    "editBleet": "Modifica bleet",
+    "deleteBleet": "Elimina Bleet",
+    "viewBleet": "Visualizza bleet",
+    "headerImage": "Immagine Intestazione",
+    "bleetTitle": "Titolo Bleet",
+    "bleetBody": "Corpo Bleet",
+    "alert_deleteBleet": "Sei sicuro di voler eliminare \" <span>{title}</span> \" ? Questa azione non può essere annullata."
+  }
+}
